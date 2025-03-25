@@ -1,4 +1,4 @@
-const offerEnds = "20 Nov 2024";
+const offerEnds = "20 Nov 2025";
 
 function countdown() {
   const offerDate = new Date(offerEnds);
